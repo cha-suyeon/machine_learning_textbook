@@ -9,7 +9,7 @@
 ## Schedule
 
 |No.|Date|Chapter|Code|
-|:--:|--|:--:|--|:--:|
+|:--:|--|:--:|--|
 |00|April 01, 2022|1|[💻]()
 |00|April 01, 2022|2|[💻]()
 |00|April 01, 2022|3|[💻](https://github.com/cha-suyeon/machine_learning_textbook/blob/master/ch3_graph.ipynb)
