@@ -8,14 +8,14 @@
 
 ## Schedule
 
-|No.|Date|Chapter|Code|PDF|
-|:--:|--|:--:|--|:--:|
-|00|April 01, 2022|1|[💻]()|[📃]()|
-|00|April 01, 2022|2|[💻]()|[📃]()|
-|00|April 01, 2022|3|[💻](https://github.com/cha-suyeon/machine_learning_textbook/blob/master/ch3_graph.ipynb)|[📃]()|
-|00|April 01, 2022|4|[💻]()|[📃]()|
-|01|April 01, 2022|5|[💻]()|[📃]()|
-|02|April 8, 2022|6|[💻]()|[📃]()|
-|03|April 15, 20222|7|[💻]()|[📃]()|
-|04|April 22, 2022|8|[💻]()|[📃]()|
-|05|April 29, 2022|9|[💻]()|[📃]()|
+|No.|Date|Chapter|Code|
+|:--:|--|:--:|--|
+|00|April 01, 2022|1|
+|00|April 01, 2022|2|[💻]()
+|00|April 01, 2022|3|[💻](https://github.com/cha-suyeon/machine_learning_textbook/blob/master/ch3_graph.ipynb)
+|00|April 01, 2022|4|[💻]()
+|01|April 01, 2022|5|[💻](https://github.com/cha-suyeon/machine_learning_textbook/blob/master/ch5_Regression.ipynb)
+|02|April 8, 2022|6|[💻](https://github.com/cha-suyeon/machine_learning_textbook/blob/master/ch6_classification.ipynb)
+|03|April 15, 20222|7|[💻](https://github.com/cha-suyeon/machine_learning_textbook/blob/master/ch7_DNN.ipynb)
+|04|April 22, 2022|8|[💻](https://github.com/cha-suyeon/machine_learning_textbook/blob/master/ch8_MNIST_database_with_CNN.ipynb)
+|05|April 29, 2022|9|[💻]()
