@@ -18,4 +18,4 @@
 |02|April 8, 2022|6|[💻](https://github.com/cha-suyeon/machine_learning_textbook/blob/master/ch6_classification.ipynb)
 |03|April 15, 20222|7|[💻](https://github.com/cha-suyeon/machine_learning_textbook/blob/master/ch7_DNN.ipynb)
 |04|April 22, 2022|8|[💻](https://github.com/cha-suyeon/machine_learning_textbook/blob/master/ch8_MNIST_database_with_CNN.ipynb)
-|05|April 29, 2022|9|[💻]()
+|05|April 29, 2022|9|[💻](https://github.com/cha-suyeon/machine_learning_textbook/blob/master/ch9_unsupervised_learning.ipynb)
