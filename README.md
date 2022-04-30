@@ -1,8 +1,10 @@
 # machine_learning_textbook
 
+## 파이썬으로 배우는 머신러닝의 교과서
+
 ![image](https://user-images.githubusercontent.com/84028683/160369165-8dcb4545-768a-44e1-b8ce-ecb86887491c.png)
 
-**파이썬으로 배우는 머신러닝의 교과서**의 교재를 이용하여 공부하고, 실습한 자료를 올리고 있습니다.
+위 교재를 이용하여 공부하고, 실습한 자료를 올리고 있습니다.
 
 <br/>
 
@@ -11,7 +13,7 @@
 |No.|Date|Chapter|Code|
 |:--:|--|:--:|--|
 |00|April 01, 2022|1|
-|00|April 01, 2022|2|[💻]()
+|00|April 01, 2022|2|[💻](https://github.com/cha-suyeon/machine_learning_textbook/blob/master/ch2_python_basic.ipynb)
 |00|April 01, 2022|3|[💻](https://github.com/cha-suyeon/machine_learning_textbook/blob/master/ch3_graph.ipynb)
 |00|April 01, 2022|4|[💻](https://github.com/cha-suyeon/machine_learning_textbook/blob/master/ch4_mathematics_for_ml.ipynb)
 |01|April 01, 2022|5|[💻](https://github.com/cha-suyeon/machine_learning_textbook/blob/master/ch5_Regression.ipynb)
